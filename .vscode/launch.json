@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Launch data_extract.py",
+            "program": "${workspaceFolder}/electricity_pricing.py"
+        }
+    ]
+}
